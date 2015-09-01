@@ -3,7 +3,7 @@
 | PROXY.PHP                                                     |
 | Created By: Évelyne Lachance                                  |
 | Contact: eslachance@gmail.com                                 |
-| Description: This proxy does a POST or GET request from any   |
+| Description: This proxy does a POST or GET request from any   | 
 |         page on the authorized domain to the defined URL      |
 /--------------------------------------------------------------*/
 
